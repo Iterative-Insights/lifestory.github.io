@@ -1,10 +1,13 @@
 body {
     background-color: #f5f5dc;
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Georgia', serif;
 }
 
 .app-name {
-    font-family: HelveticaNeue, Arial, sans-serif;
+    /* font-family: 'Georgia', serif; */
+    /* font-family: HelveticaNeue, Arial, sans-serif; */
+    font-family: 'Merriweather', serif;
 }
 
 @font-face {
@@ -14,6 +17,7 @@ body {
 
 
 .letter {
+    font-family: 'Merriweather', serif;
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
